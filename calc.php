@@ -2,7 +2,7 @@
 <form  method="GET">
 <input type ="text" name="arg1" value="">
 <input type ="text" name="arg2" value="">
-<input type ="submit" value="сумма">
+<input type ="submit" value="СУММА">
 </form>
 
 <?php 
